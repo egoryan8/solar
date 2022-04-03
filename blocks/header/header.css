@@ -1,0 +1,10 @@
+.header {
+    background-image: url(../../images/фон.svg);
+    width: 100%;
+    min-height: 900px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}

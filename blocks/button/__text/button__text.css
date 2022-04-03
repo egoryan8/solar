@@ -1,0 +1,12 @@
+.button__text {
+    width: 258px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+    position: absolute;
+    top: 59px;
+    right: 0;
+
+}

@@ -1,0 +1,10 @@
+.button {
+    width: 308px;
+    height: 100px;
+    margin: 50px auto 0;
+    display: flex;
+    text-decoration: none;
+    color:white;
+    position: relative;
+    
+}

@@ -1,0 +1,9 @@
+.header__text {
+    width: 316px;
+    height: 25px;
+    margin: 140px auto 0;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}

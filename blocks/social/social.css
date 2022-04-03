@@ -1,0 +1,9 @@
+.social {
+    width: 167px;
+    height: 31px;
+    margin: 250px auto 38px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}

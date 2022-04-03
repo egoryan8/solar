@@ -1,0 +1,9 @@
+.button__circle{
+    background-image: url(../../../images/Ellipse\ 1.svg);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
