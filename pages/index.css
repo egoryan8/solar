@@ -18,3 +18,5 @@
 @import url(../blocks/services/__content/services__content.css);
 @import url(../blocks/services/__text-title/services__text-title.css);
 @import url(../blocks/services/__text-title/__text-title_max_size/services__texti-title_max_size.css);
+@import url(../blocks/spanel/spanel.css);
+@import url(../blocks/spanel/__text/spanel__text.css);
