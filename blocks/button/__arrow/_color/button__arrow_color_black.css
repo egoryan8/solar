@@ -1,0 +1,7 @@
+.button__arrow_color_black {
+    background-image: url("../../../../images/Arrow1.svg");
+    width: 40px;
+    height: 15px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
