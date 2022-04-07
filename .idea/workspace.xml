@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67edcef4-486a-4b83-b595-2dd61134e77e" name="Changes" comment="new files" />
+    <list default="true" id="67edcef4-486a-4b83-b595-2dd61134e77e" name="Changes" comment="arrow hotfix">
+      <change afterPath="$PROJECT_DIR$/blocks/button/__arrow/_color/button__arrow_color_black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/button/__circle/_color/button__circle_color_black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/button/__text/_color/button__text_color_black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/button/_place/button_place_customers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/button/__circle/button__circle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/button/__circle/button__circle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/button/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/button/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +69,8 @@
       <workItem from="1649349362367" duration="14000" />
       <workItem from="1649349389772" duration="29000" />
       <workItem from="1649349426891" duration="95000" />
+      <workItem from="1649349556201" duration="68000" />
+      <workItem from="1649349876409" duration="1607000" />
     </task>
     <task id="LOCAL-00001" summary="section finish">
       <created>1649264763449</created>
@@ -116,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649349457546</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="arrow hotfix">
+      <created>1649349612912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649349612912</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +173,7 @@
     <MESSAGE value="new section finish" />
     <MESSAGE value="images hotfix" />
     <MESSAGE value="new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files" />
+    <MESSAGE value="arrow hotfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrow hotfix" />
   </component>
 </project>
