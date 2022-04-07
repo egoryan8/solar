@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67edcef4-486a-4b83-b595-2dd61134e77e" name="Changes" comment="images hotfix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27OXPDtybBg69djZZwxEM233yZF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../how-to-learn" />
+    <property name="list.type.of.created.stylesheet" value="AUTO_DETECTED" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\dev\solar\blocks" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67edcef4-486a-4b83-b595-2dd61134e77e" name="Changes" comment="" />
+      <created>1649192079403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649192079403</updated>
+      <workItem from="1649192089585" duration="1057000" />
+      <workItem from="1649262189326" duration="3933000" />
+      <workItem from="1649336572174" duration="157000" />
+      <workItem from="1649336747014" duration="31000" />
+      <workItem from="1649345893404" duration="1000000" />
+      <workItem from="1649346905277" duration="1717000" />
+      <workItem from="1649349177278" duration="183000" />
+      <workItem from="1649349362367" duration="14000" />
+      <workItem from="1649349389772" duration="29000" />
+    </task>
+    <task id="LOCAL-00001" summary="section finish">
+      <created>1649264763449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649264763449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nested refactor">
+      <created>1649265270075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649265270075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="spanel section finish">
+      <created>1649266116182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649266116182</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add images">
+      <created>1649336611696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649336611696</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new section finish">
+      <created>1649348584564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649348584564</updated>
+    </task>
+    <task id="LOCAL-00006" summary="images hotfix">
+      <created>1649349226147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649349226148</updated>
+    </task>
+    <task id="LOCAL-00007" summary="images hotfix">
+      <created>1649349286093</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649349286093</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="section finish" />
+    <MESSAGE value="nested refactor" />
+    <MESSAGE value="spanel section finish" />
+    <MESSAGE value="add images" />
+    <MESSAGE value="new section finish" />
+    <MESSAGE value="images hotfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="images hotfix" />
+  </component>
+</project>
