@@ -20,6 +20,16 @@
 @import url(../blocks/services/__text-title/__text-title_max_size/services__texti-title_max_size.css);
 @import url(../blocks/spanel/spanel.css);
 @import url(../blocks/spanel/__text/spanel__text.css);
+
+@import url(../blocks/customers/customers.css);
+@import url(../blocks/customers/__text/customers__text.css);
+@import url(../blocks/customers/__content/customers__content.css);
+@import url(../blocks/customers/__title/customers__title.css);
+@import url(../blocks/customers/__arr-container/customers__arr-container.css);
+@import url(../blocks/customers/__arrow/customers__arrow.css);
+@import url(../blocks/customers/__right/customers__right.css);
+@import url(../blocks/section__title/_customers/section__title_customers.css);
+
 @import url(../blocks/content/content.css);
 @import url(../blocks/green-rate/green-rate.css);
 @import url(../blocks/green-rate/__title/green-rate__title.css);
@@ -38,3 +48,4 @@
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/two-columns/__description-image/two-columns__description-image.css);
+

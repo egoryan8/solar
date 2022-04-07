@@ -1,0 +1,8 @@
+.customers__arrow {
+    width: 40px;
+    height: 5px;
+}
+
+.customers__arrow:first-of-type {
+    margin-right: 22px;
+}
