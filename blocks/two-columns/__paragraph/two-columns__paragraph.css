@@ -1,0 +1,8 @@
+.two-columns__paragraph {
+    margin: 0 0 17px 0;
+    width: 600px;
+    flex-wrap: wrap;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
