@@ -1,0 +1,7 @@
+.table {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 100px 0 0 0;
+}
