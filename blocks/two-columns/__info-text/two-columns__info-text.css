@@ -1,0 +1,9 @@
+.two-columns__info-text {
+    margin: 0 0 0 40px;
+    width: 235px;
+    height: 114px;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    flex-wrap: wrap;
+}

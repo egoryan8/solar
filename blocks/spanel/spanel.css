@@ -1,0 +1,11 @@
+.spanel {
+    display: flex;
+    width: 1920px;
+    height: 500px;
+    background-image: url("../../images/spanel.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}

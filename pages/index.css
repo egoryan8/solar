@@ -10,3 +10,42 @@
 @import url(../blocks/button/__arrow/button__arrow.css);
 @import url(../blocks/button/__text/button__text.css);
 @import url(../blocks/social/social.css);
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__text/services__text.css);
+@import url(../blocks/services/__paragraph/services__paragraph.css);
+@import url(../blocks/services/__title/services__title.css);
+@import url(../blocks/services/__image/services__image.css);
+@import url(../blocks/services/__content/services__content.css);
+@import url(../blocks/services/__text-title/services__text-title.css);
+@import url(../blocks/services/__text-title/__text-title_max_size/services__texti-title_max_size.css);
+@import url(../blocks/spanel/spanel.css);
+@import url(../blocks/spanel/__text/spanel__text.css);
+
+@import url(../blocks/customers/customers.css);
+@import url(../blocks/customers/__text/customers__text.css);
+@import url(../blocks/customers/__content/customers__content.css);
+@import url(../blocks/customers/__title/customers__title.css);
+@import url(../blocks/customers/__arr-container/customers__arr-container.css);
+@import url(../blocks/customers/__arrow/customers__arrow.css);
+@import url(../blocks/customers/__right/customers__right.css);
+@import url(../blocks/section__title/_customers/section__title_customers.css);
+
+@import url(../blocks/content/content.css);
+@import url(../blocks/green-rate/green-rate.css);
+@import url(../blocks/green-rate/__title/green-rate__title.css);
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__item/nav__item.css);
+@import url(../blocks/nav/__item/_active/nav__item_active.css);
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__info/two-columns__info.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/__info-image/two-columns__info-image.css);
+@import url(../blocks/two-columns/__info-text/two-columns__info-text.css);
+@import url(../blocks/arrow-left/arrow-left.css);
+@import url(../blocks/arrow-right/arrow-right.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/two-columns/__description-image/two-columns__description-image.css);
+

@@ -1,0 +1,6 @@
+.two-columns__info {
+    display: flex;
+    width: 50%;
+    flex-wrap: wrap;
+    position: relative;
+}

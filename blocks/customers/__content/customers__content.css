@@ -1,0 +1,6 @@
+.customers__content {
+    display: flex;
+    max-width: 1200px;
+    height: 495px;
+    margin: 150px auto auto auto;
+}
