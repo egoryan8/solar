@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67edcef4-486a-4b83-b595-2dd61134e77e" name="Changes" comment="images hotfix" />
+    <list default="true" id="67edcef4-486a-4b83-b595-2dd61134e77e" name="Changes" comment="new files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../how-to-learn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="AUTO_DETECTED" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -58,6 +58,7 @@
       <workItem from="1649349177278" duration="183000" />
       <workItem from="1649349362367" duration="14000" />
       <workItem from="1649349389772" duration="29000" />
+      <workItem from="1649349426891" duration="95000" />
     </task>
     <task id="LOCAL-00001" summary="section finish">
       <created>1649264763449</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649349286093</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new files">
+      <created>1649349457546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649349457546</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +153,7 @@
     <MESSAGE value="add images" />
     <MESSAGE value="new section finish" />
     <MESSAGE value="images hotfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="images hotfix" />
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
 </project>
