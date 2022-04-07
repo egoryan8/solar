@@ -1,0 +1,9 @@
+.text-container {
+    width: 510px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.text-container:last-of-type {
+    margin-bottom: 0;
+}

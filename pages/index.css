@@ -54,3 +54,11 @@
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/two-columns/__description-image/two-columns__description-image.css);
 
+@import url(../blocks/five-steps/five-steps.css);
+@import url(../blocks/five-steps/__title/five-steps__title.css);
+@import url(../blocks/text-container/text-container.css);
+@import url(../blocks/five-steps/__text/five-steps__text.css);
+@import url(../blocks/five-steps/__counter/five-steps__counter.css);
+@import url(../blocks/five-steps/__image/five-steps__image.css);
+@import url(../blocks/five-steps/__paragraph/five-steps__paragraph.css);
+@import url(../blocks/five-steps/__heading/five-steps__heading.css);
